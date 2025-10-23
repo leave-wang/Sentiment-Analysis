@@ -76,19 +76,5 @@ Before training, data will be cleaned and balanced to improve model quality.
 
 ## Supervisor
 **Dr Farhana Liza**  
-School of Computing Sciences, University of East Anglia  
-
----
-
-## Expected Outcome
-By the end of this project, there will be a working mobile app that can predict the sentiment of a given text.  
-It will show how NLP and machine learning can be combined to create intelligent, user-focused tools.
-
----
-
-## Future Work
-- Add multilingual support for analysing non-English text.  
-- Improve model accuracy using newer transformer-based models.  
-- Explore on-device deployment for offline use.
 
 ---
